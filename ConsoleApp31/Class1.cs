@@ -18,6 +18,8 @@ namespace ConsoleApp31
         public void Method1()
         {
             Console.WriteLine("Method1");
+            Console.WriteLine("Method1");
+            Console.WriteLine("Method1");
         }
     }
 
